@@ -92,6 +92,7 @@ public double getPagaVjetore() {
 		else
 		return year - this.getDatalindjes().getViti()-1;
 		}
+	
  // detyre shtepie: shtoje edhe daten
 	}
 

@@ -59,4 +59,5 @@ public double getPesha() {
 public void setPesha(double pesha) {
 	this.pesha = pesha;
 }
+
 }

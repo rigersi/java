@@ -84,6 +84,7 @@ public void setViti(int viti) {
 	this.viti = viti;
 
 }
+
 /**
  * Afishon daten ne formatin dd/mm/yyyy	
  */

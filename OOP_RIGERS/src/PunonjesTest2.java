@@ -7,6 +7,7 @@ public class PunonjesTest2 {
 		p1.getDatalindjes().afishoDaten();
 		System.out.println(p1.getMosha());
 		System.out.println(p1.getMosha()+" vjec");
+		
 	}
 	
 }

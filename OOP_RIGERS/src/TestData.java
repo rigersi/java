@@ -10,6 +10,7 @@ public class TestData {
 		Data error = new Data(29, 2, 2025);
 		error.setDita(35);
 		error.afishoDaten();
+		
 	}
 	
 }

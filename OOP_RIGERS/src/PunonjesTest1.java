@@ -22,7 +22,7 @@ public class PunonjesTest1 {
 		// menyra for each e bredhjes se nje tabele
 		for(Punonjes p:lista)
 			Punonjes.afishoPunonjes(p);
-		
+	
 		//for(int i=0;i<lista.length;i++)
 			//Punonjes.afishoPunonjes(lista[i]);
 
