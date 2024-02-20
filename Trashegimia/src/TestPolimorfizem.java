@@ -49,6 +49,8 @@ public class TestPolimorfizem {
 					return;
 				}
 				System.out.println("Siperfaqja = "+emri+" + "+ o.getSiperfaqe());
+				
+				
 			}
 		}
 	}
