@@ -11,7 +11,7 @@ private double rrezja;
 public Rrethi() {
 	
 }
-public Rrethi(double rrezja) {
+public Rrethi(String ngjyra, boolean ngjyrosur, double rrezja) {
 	rrezja = 1.0;
 }
  
@@ -27,10 +27,12 @@ public double getRrezja() {
 public void setRrezja(double rrezja) {
 	this.rrezja = rrezja;
 }
-public double getPrrethi() {
+@Override
+public double getPerimeter() {
 	return 2*Math.PI*rrezja;
 }
-public double getSrrethi() {
+@Override
+public double getSiperfaqe() {
 	return Math.PI * rrezja * rrezja;
 	
 }
